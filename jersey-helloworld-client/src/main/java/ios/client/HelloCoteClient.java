@@ -22,4 +22,9 @@ public class HelloCoteClient {
 	public void setString(String string) {
 		this.string = string;
 	}
+	
+	@Override
+	public String toString() {
+		return this.string;
+	}
 }

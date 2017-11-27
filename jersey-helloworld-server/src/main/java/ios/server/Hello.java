@@ -2,7 +2,7 @@ package ios.server;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement
+
 public class Hello {
 
 	private String string;
