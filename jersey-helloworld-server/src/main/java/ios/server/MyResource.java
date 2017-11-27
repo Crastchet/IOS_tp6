@@ -8,6 +8,8 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
+import ios.server.domain.Hello;
+
 /** Example resource class hosted at the URI path "/myresource"
  */
 @Path("/myresource")
